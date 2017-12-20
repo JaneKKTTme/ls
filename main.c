@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <sys/types.h>
 #include <dirent.h>
-#include <windows.h>
 #include <locale.h>
 #include <string.h>
 
